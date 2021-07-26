@@ -1,5 +1,5 @@
 # Seismology-Python-Tutorials-SPT
-Our goal is to motivate Seismology enthusiasts to learn how to implement seismic methods through our projects using Python.\
+Our goal is to motivate Seismology enthusiasts to learn how to implement seismic methods through our projects using Python.
 
 
 
