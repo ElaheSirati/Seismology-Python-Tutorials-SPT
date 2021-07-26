@@ -8,7 +8,7 @@ This tutorial is a good tool for seismology students who are eager to learn Pyth
 Part_1: How to creat and plot a source term.
 
 
-\rule
+
 Feel free to contact us. We will be happy to learn new things from you and share it with everyone for free.\
 Elahe: elaheh.sirati@yahoo.com\
 Arash: arashrezaei@ut.ac.ir
