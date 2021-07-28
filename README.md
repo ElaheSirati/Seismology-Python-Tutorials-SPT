@@ -10,7 +10,7 @@ Part_1: How to creat and plot a source term.
 
 Follow us on Researchgate:\
 https://www.researchgate.net/profile/Elahe-Sirati \
-https://www.researchgate.net/profile/Arash-Rezaei-5 \
+https://www.researchgate.net/profile/Arash-Rezaei-5 
 
 Feel free to contact us. We will be happy to learn new things from you and share it with everyone for free.\
 Elahe: elaheh.sirati@yahoo.com\
